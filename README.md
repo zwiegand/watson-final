@@ -1,9 +1,19 @@
+**In Short** <br />
+Import this code onto your system.
+
+Follow this link to download my best index : https://drive.google.com/file/d/18-YjcF_AWUdnFvi5PQ3tdF_7NVzkOnIS/view?usp=sharing
+
+When run the code will prompt you to build an index, type "n", <br />
+then prompt you to run queries, type "y", <br \>
+then prompt you for question document, type "questions.txt". <br \>
+
+Detailed instructions below.
+
 **Setup Instructions** <br />
 
-This file contains instructions on how to run the program, this information will be repeated on the report.
+Import the program from github, folder *watson-final* contains all the code for my program. In the resources subfolder you will see *questions.txt* and *wikiPages*. If you wish to test the index building capabilities you can insert all of the wiki articles into this folder and follow the instructions to run below. You will still need to download the best index I have created and put it somewhere on your local machine.
 
-Import the program from github, folder *final-project* contains all the code for my program, and the collection of
-wikiPedia articles. You will still need to download the best index I have created and put it somewhere on your local machine.
+I have included the text doc *questions.txt* for when you want to run the queries. Instructions are below on how to use it further.
 
 To make sure the program can access your index, at the top of the *QueryEngine.java* file (the main code file), you
 can assign the *indexPath* variable to wherever you have stored the index on your local machine. 
@@ -11,6 +21,9 @@ can assign the *indexPath* variable to wherever you have stored the index on you
 
 Link for my best index : https://drive.google.com/file/d/18-YjcF_AWUdnFvi5PQ3tdF_7NVzkOnIS/view?usp=sharing
 If you have this link you should be able to download, email me at zwiegand@email.arizona.edu immediately if you have problems.
+
+When I was testing importing my project from this repository, Eclipse my IDE gave imported two folders, *watson-final* and *watson-final_watson-final*. The later seemed 
+to be the folder that held my working project. 
 
 **Running Instructions**
 
