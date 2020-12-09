@@ -2,6 +2,8 @@
 Import this code onto your system.
 
 Follow this link to download my best index : https://drive.google.com/file/d/18-YjcF_AWUdnFvi5PQ3tdF_7NVzkOnIS/view?usp=sharing
+Know the path to the index on your system.
+Enter this path into the top of the code in the *QueryEngine.java* file.
 
 When run the code will prompt you to build an index, type "n", <br />
 then prompt you to run queries, type "y", <br \>
